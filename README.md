@@ -4,8 +4,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 ![](https://komarev.com/ghpvc/?username=berkaycimendag&color=blue)
