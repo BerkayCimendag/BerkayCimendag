@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/berkay-%C3%A7imenda%C4%9F-a88736197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaycimendag" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/berkay-%C3%A7imenda%C4%9F-a88736197/](https://www.linkedin.com/in/berkay-%C3%A7imenda%C4%9F-a88736197/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaycimendag" height="30" width="40" /></a>
 ![](https://komarev.com/ghpvc/?username=berkaycimendag&color=blue)
 </p>
 
